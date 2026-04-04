@@ -2,9 +2,11 @@
 一款免费无广告的笔记合并工具，自动合并Word/PDF，解决学生整理笔记、打印的痛点
 # 学生党笔记合并神器
 📚 免费无广告 | 自动合并Word/PDF | 傻瓜式操作 | 纯本地运行
+
 📚 Free & Ad-Free | Automatically Merges Word/PDF | User-Friendly | Runs Locally
-The executable file is provided via a public cloud storage link, as it cannot be compressed below 25MB due to technical limitations. Source code is also included.
-简介附带exe下载链接，因技术力不足，无法做到压缩至25M以下，故放在公开云盘里，请谅解。
+
+# The executable file is provided via a public cloud storage link, as it cannot be compressed below 25MB due to technical limitations. Source code is also included.
+# 简介附带exe下载链接，因技术力不足，无法做到压缩至25M以下，故放在公开云盘里，请谅解。
 
 # exe下载链接/exe download links
 https://wwbtr.lanzouu.com/iFbNE3mgfkre 密码:1oto
