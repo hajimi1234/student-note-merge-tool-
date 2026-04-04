@@ -5,8 +5,8 @@
 
 📚 Free & Ad-Free | Automatically Merges Word/PDF | User-Friendly | Runs Locally
 
-# The executable file is provided via a public cloud storage link, as it cannot be compressed below 25MB due to technical limitations. Source code is also included.
-# 简介附带exe下载链接，因技术力不足，无法做到压缩至25M以下，故放在公开云盘里，请谅解。
+简介附带exe下载链接，因技术力不足，无法做到压缩至25M以下，故放在公开云盘里，请谅解。
+The executable file is provided via a public cloud storage link, as it cannot be compressed below 25MB due to technical limitations. Source code is also included.
 
 # exe下载链接/exe download links
 https://wwbtr.lanzouu.com/iFbNE3mgfkre 密码:1oto
